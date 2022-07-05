@@ -4,8 +4,20 @@ body {
     padding: 0;
   }
    
-  a {
+  .content a {
       text-decoration: none;
+      color: #222;
+    }
+
+  .blogcontentwrapper .content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+  }
+
+  .link {
+    color: royalblue;
   }
 
 footer .main-footer{  padding: 20px 0;  background: #252525;}

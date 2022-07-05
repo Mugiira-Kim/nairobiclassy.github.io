@@ -99,6 +99,7 @@ body {
 .wrapper {
 display: flex;
 flex-wrap: wrap;
+background-color: #252525;
 }
 
 .wrapperB {
@@ -114,10 +115,19 @@ flex-wrap: wrap;
 }
 
 .megawrap {
-  background-color: #f6f6f6;
+  background-color: #252525;
 }
 
-footer .main-footer{  padding: 20px 0;  background: #252525;}
+.blog-card {
+  background-color: #222;
+  color: #fff;
+}
+
+a {
+  color: #fff;
+}
+
+footer .main-footer{  padding: 20px 0;  background-color: #161616;}
 footer ul{  padding-left: 0;  list-style: none;}
 
 /* Copy Right Footer */
@@ -210,11 +220,12 @@ transition: all 250ms ease-in-out 0s;
     width: 50%;
     background-color: #f3f3f3; 
     margin: 1rem;
+    background-color: #252525;
   }
 
   .blog a {
     text-decoration: none;
-    color: black;
+    color:#fff;
   }
    
 
