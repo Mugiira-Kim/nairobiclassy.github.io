@@ -58,16 +58,6 @@ const searchMessage = () => {
 
 
 // search chat
-messageSearch.addEventListener('keyup', searchMessage);
-
-// hightlight messages card when messages menu item is clicked
-messagesNotification.addEventListener('click', () => {
-    messages.style.boxShadow = '0 0 1rem var(--color-primary)';
-    messagesNotification.querySelector('.notification-count').style.display = 'none';
-    setTimeout(() => {
-        messages.style.boxShadow = 'none';
-    }, 2000);
-})
 
 
 
@@ -242,29 +232,26 @@ closeBtn.addEventListener('click', () => {
 // to search location
 
 // JavaScript code
-function search_location() {
-	let input = document.getElementById('location').value
-	input=input.toLowerCase();
-	let x = document.getElementsByClassName('feeds');
-    let models = document.querySelectorAll('.feed');
-    let location = x.getElementsByTagName(small);
-	
-	for (i = 0; i < location.length; i++) {
-         let match = models[i].getElementsByTagName('small')[0]; 
-            
-         if (match) {
-        let textvalue = match.textContent || match.innerHTML
 
-        if (textvalue.toLocaleLowerCase().indexOf(input)> -1) {
-            models[i].style.display = "";
-        } else {
-            models[i].style.display = "none";
+const modelSearch = document.querySelector('.feed');
+
+const searchBar = document.querySelector('.search-bar');
+
+console.log(searchBar);
+
+const searchModel = () => {
+    const val = modelSearch.value;
+    message.forEach(user => {
+        let name = modelSearch.querySelector('.ingo').textContent.toLowerCase();
+        if(name.indexOf(val) != -1){
+            modelSearch.style.display = '';
+        } else{
+            modelSearch.style.display = 'none';
         }
-         }  
-	
-	}
+    })
 }
 
+searchBar.addEventListener('keyup', searchModel); 
 
 
 
