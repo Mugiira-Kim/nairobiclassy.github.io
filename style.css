@@ -1025,7 +1025,18 @@ footer a:hover {
     background-color: #088178;
     color: #fff;
     overflow-x: hidden;
-}
+    font-size: 10px;
+    font-weight: 600;
+    padding: 10px 10px;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    transition: 0.2s;
+    background-color: #088178;
+    }
+
 
 .locations ul {
     list-style: none;
@@ -1124,6 +1135,19 @@ footer a:hover {
     }
     #form-details form {
         width: 50%;
+    }
+
+    .locations button.normal {
+        font-size: 10px;
+        font-weight: 600;
+        padding: 5px 5px;
+        color: white;
+        border-radius: 4px;
+        cursor: pointer;
+        border: none;
+        outline: none;
+        transition: 0.2s;
+        background-color: #088178;
     }
 }
 
@@ -1251,5 +1275,18 @@ footer a:hover {
     #prodetails .single-pro-details {
         width: 100%;
         padding-top: 30px;
+    }
+
+    .locations button.normal {
+        font-size: 10px;
+        font-weight: 600;
+        padding: 5px 5px;
+        color: white;
+        border-radius: 4px;
+        cursor: pointer;
+        border: none;
+        outline: none;
+        transition: 0.2s;
+        background-color: #088178;
     }
 }
