@@ -1203,6 +1203,10 @@ footer a:hover {
         box-shadow: 2px 2px 2px #999;
       z-index:100;
     }
+
+    .locations .green {
+        background-color: #00D100;
+    }
 }
 
 
@@ -1358,5 +1362,9 @@ footer a:hover {
       font-size:30px;
         box-shadow: 2px 2px 2px #999;
       z-index:100;
+    }
+
+    .locations .green {
+        background-color: #00D100;
     }
 }
