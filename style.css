@@ -1217,6 +1217,12 @@ footer a:hover {
     .locations .freeze {
         background-color: #687776
        }
+
+       .fa-phone-square {
+        font-size: 30px !important;
+        margin: 2%;
+        z-index:100;
+     }
        
 }
 
@@ -1382,5 +1388,11 @@ footer a:hover {
     .locations .freeze {
         background-color: #687776
        }
+
+       .fa-phone-square {
+        font-size: 30px !important;
+        margin: 2%;
+       z-index:100;
+     }
        
 }
