@@ -1207,6 +1207,11 @@ footer a:hover {
     .locations .green {
         background-color: #00D100;
     }
+
+    .locations .freeze {
+        background-color: #687776
+       }
+       
 }
 
 
@@ -1367,4 +1372,9 @@ footer a:hover {
     .locations .green {
         background-color: #00D100;
     }
+
+    .locations .freeze {
+        background-color: #687776
+       }
+       
 }
