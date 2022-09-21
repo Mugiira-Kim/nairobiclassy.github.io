@@ -1044,12 +1044,12 @@ footer a:hover {
     list-style: none;
 }
 
-.locations .freeze {
+.locations .flex .freeze {
  background-color: #687776
 }
 
-.locations .green {
-    background-color: red;
+.locations .flex .green {
+    background-color: #00D100;
 }
 
 .float{
