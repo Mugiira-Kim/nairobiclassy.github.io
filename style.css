@@ -1071,6 +1071,12 @@ footer a:hover {
 	margin-top:1px;
 }
 
+.fa-phone-square {
+   font-size: 50px !important;
+   margin: 2%;
+  z-index:100;
+}
+
 #pride-header {
     height: 40vh;
     display: flex;
