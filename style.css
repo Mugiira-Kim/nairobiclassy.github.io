@@ -99,6 +99,7 @@ body {
     left: 0;
     z-index: 999;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+
 }
 
 #navbar {
@@ -585,6 +586,17 @@ footer a:hover {
 #page-header h2,
 #page-header p {
     color: #fff;
+}
+
+#niskize-header {
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-image: url("img/banner/openup.jpg");
+    background-size: cover;
+    padding: 14px;  
 }
 
 #pagination {
