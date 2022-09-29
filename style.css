@@ -676,7 +676,7 @@ footer a:hover {
 }
 
 #page-header.blog-header {
-    background-image: url("img/banner/bloghead.jpg");
+    background-image: url("img/banner/bloghead_50.jpg");
 }
 
 #blog .blog-box {
@@ -744,7 +744,7 @@ footer a:hover {
 /* About Page */
 
 #page-header.about-header {
-    background-image: url("img/about/depositphotos_178080638-stock-photo-aerial-panorama-nairobi-kenya.jpg");
+    background-image: url("img/about/aboutheader.jpg");
 }
 
 #about-head {
