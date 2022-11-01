@@ -802,6 +802,10 @@ footer a:hover {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    background-image: url("img/banner/b14.png");
+    background-repeat: no-repeat;
+    background-position: 20% 30%;
+    background-color: #041e42;
 }
 
 #contact-details .details {
@@ -1179,6 +1183,18 @@ button .close {  width: 30px;
     text-align: center;
     text-decoration: none;
   }
+
+.glow1 {
+    
+}
+
+#maroon {
+    background-color: maroon;
+    color: white;
+    font-size: 20p;
+}
+
+
   @keyframes glowing {
     0% {
       background-color: #2ba805;
