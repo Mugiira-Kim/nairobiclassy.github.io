@@ -159,10 +159,10 @@ body {
     align-items: flex-start;
     justify-content: center;
     padding: 0 80px;
-    background-image: url("https://wallpapers.com/wallpapers/cute-black-girl-close-up-portrait-89qyc0uu1uvyz8iq.html?embed=true");
+    background-image: url("img/banner/bidbanner.png");
     width: 100%;
-    height: 90vh;
-    background-size: cover;
+    height: 30vh;
+    background-size: contain;
     background-position: top 25% right 0;
 }
 
@@ -176,7 +176,7 @@ body {
 
 #hero button {
     background-image: url("img/button.png");
-    background-color: transparent;
+    background-color: black;
     color: #088178;
     border: 0;
     padding: 14px 80px 14px 65px;
@@ -1193,6 +1193,53 @@ button .close {  width: 30px;
     color: white;
     font-size: 20p;
 }
+
+/* Escort Lotto CSS */
+
+.login{  
+    width: auto;  
+    overflow: hidden;  
+    margin: auto;
+    padding: 3px;      
+    background: #23463f;  
+    border-radius: 15px ;  
+      
+}  
+h2{  
+text-align: center;  
+color: #277582;  
+padding: 20px;  
+}  
+label{  
+color: #08ffd1;  
+font-size: 17px;  
+}  
+#Uname{  
+width: auto;  
+height: 30px;  
+border: none;  
+border-radius: 3px;  
+padding-left: 8px;  
+}  
+#Pass{  
+width: auto;  
+height: 30px;  
+border: none;  
+border-radius: 3px;  
+padding-left: 8px;  
+  
+}  
+#log{  
+width: auto;  
+height: 30px;  
+border: none;  
+border-radius: 17px;  
+padding-left: 7px;  
+color: blue;  
+
+}  
+
+
 
 
   @keyframes glowing {
