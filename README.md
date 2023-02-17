@@ -1,7 +1,8 @@
-# NOT SAFE FOR WORK(https://www.nairobiclassyescorts.com/shop)
-<a https://www.nairobiclassyescorts.com/">NairobiClassyEscorts</a>
-Nairobihot - Find Kenya escorts in Nairobi today. Only hot and sexy call girls. Call and find a woman for sex in Nairobi and have a good time. 
-ExoticKenya, BedEscorts, 
+# [NOT SAFE FOR WORK](https://www.nairobiclassyescorts.com/shop)
+  [NairobiClassyEscorts] (https://www.nairobiclassyescorts.com/)
+  
+     Nairobihot - Find Kenya escorts in Nairobi today. Only hot and sexy call girls. Call and find a woman for sex in Nairobi and have a good time. 
+     ExoticKenya, BedEscorts, 
 
 
 # 📖 [NairobiClassyEscorts] <a name="about-project"></a>
